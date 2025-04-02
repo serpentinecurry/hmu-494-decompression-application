@@ -1,0 +1,23 @@
+{
+  "name": "musical-garden",
+  "version": "1.0.0",
+  "description": "A musical garden for people to decompress with (HMU 494 project).",
+  "homepage": "https://github.com/serpentinecurry/hmu-494-decompression-application#readme",
+  "bugs": {
+    "url": "https://github.com/serpentinecurry/hmu-494-decompression-application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serpentinecurry/hmu-494-decompression-application.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
